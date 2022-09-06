@@ -20,7 +20,11 @@ createApp(App).use(formValid).mount('#app')
 ## API
 
 | 参数 | 说明 | 类型 | 默认值 | 必填 |
-| - | :- | :- | :-: | :-: | :-: |
+| -- | -- | -- | -- | -- |
 | min | type为number是有效，最小值 | Number | - | 否 |
 | type | 密码输入框类型 | String | 'string' | 否 |
 | login | 登录方法 | Function | - | 是 |
+
+
+
+
