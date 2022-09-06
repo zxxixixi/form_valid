@@ -1,8 +1,9 @@
 {
   "name": "form_valid",
   "version": "1.0.0",
-  "description": "",
+  "description": "登录页验证表单",
   "main": "index.js",
+  "keyword": "valid form_valid vue-password password",
   "directories": {
     "lib": "lib"
   },
